@@ -1,6 +1,6 @@
 const express = require('express');
 
-const ctrl = require('../../controllers/contacts');
+const ctrl = require('../../controllers');
 const { schemas } = require('../../models/contactModel');
 const { validBody, isValidId } = require('../../middlewares/');
 
