@@ -1,6 +1,6 @@
-# goit-node.js-hw-04
+# goit-node.js-hw-05
 
-Authentication with JSON Web Token (JWT).
+Work with images. Testing
 
 <details>
 <summary>More information</summary>
