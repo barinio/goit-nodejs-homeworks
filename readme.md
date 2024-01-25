@@ -1,6 +1,6 @@
-# goit-node.js-hw-05
+# goit-node.js-hw-06
 
-Work with images. Testing
+Adding user email verification after registration using the SendGrid service (nodemailer).
 
 <details>
 <summary>More information</summary>
